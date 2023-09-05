@@ -41,3 +41,7 @@ crash-reports/
 local/
 
 backups/
+
+enigmatic_persistence.dat
+
+rhino.local.properties
