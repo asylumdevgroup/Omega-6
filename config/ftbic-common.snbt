@@ -208,7 +208,7 @@
 		# Amount of energy stored in the Charge Pad
 		# Default: 1000000.0
 		# Range: 1.0 ~ 100000.0
-		"Charge pad capacity": 1000000.0d
+		"Charge pad capacity": 100000.0d
 		
 		# Amount of energy stored in the Compressor
 		# Default: 1200.0
@@ -372,7 +372,7 @@
 		# Amount of energy stored in the Pump Tank
 		# Default: 128000
 		# Range: 1 ~ 100000
-		"Pump tank capacity": 128000
+		"Pump tank capacity": 100000
 		
 		# Energy usage of the Pump
 		# Default: 3.0
@@ -441,7 +441,7 @@
 		# Amount of energy stored in the Teleporter
 		# Default: 1000000.0
 		# Range: 1.0 ~ 100000.0
-		"Teleporter capacity": 1000000.0d
+		"Teleporter capacity": 100000.0d
 		
 		# Max distance a teleporter can work over
 		# Default: 1200.0

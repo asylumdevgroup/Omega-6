@@ -63,7 +63,7 @@
 	flintToolsSpeed = 5.5
 	#Flint tool attack damage [1-100, default: 0.5]
 	#Range: 1.0 ~ 100.0
-	flintToolsDamage = 0.5
+	flintToolsDamage = 1.0
 	#Flint tool enchantability [0-50, default: 5]
 	#Range: 1 ~ 50
 	flintToolsEnchantability = 5
@@ -78,7 +78,7 @@
 	bronzeToolsSpeed = 6.5
 	#Bronze tool attack damage [1-100, default: 0.5]
 	#Range: 1.0 ~ 100.0
-	bronzeToolsDamage = 0.5
+	bronzeToolsDamage = 1.0
 	#Bronze tool enchantability [0-50, default: 10]
 	#Range: 1 ~ 50
 	bronzeToolsEnchantability = 10
@@ -93,7 +93,7 @@
 	steelToolsSpeed = 6.5
 	#Steel tool attack damage [1-100, default: 0.5]
 	#Range: 1.0 ~ 100.0
-	steelToolsDamage = 0.5
+	steelToolsDamage = 1.0
 	#Steel tool enchantability [0-50, default: 8]
 	#Range: 1 ~ 50
 	steelToolsEnchantability = 8
@@ -108,7 +108,7 @@
 	titaniumToolsSpeed = 6.5
 	#Titanium tool attack damage [1-100, default: 0.5]
 	#Range: 1.0 ~ 100.0
-	titaniumToolsDamage = 0.5
+	titaniumToolsDamage = 1.0
 	#Titanium tool enchantability [0-50, default: 8]
 	#Range: 1 ~ 50
 	titaniumToolsEnchantability = 8
@@ -123,7 +123,7 @@
 	hardenedSteelToolsSpeed = 6.5
 	#Hardened Steel tool attack damage [1-100, default: 0.5]
 	#Range: 1.0 ~ 100.0
-	hardenedSteelToolsDamage = 0.5
+	hardenedSteelToolsDamage = 1.0
 	#Hardened Steel tool enchantability [0-50, default: 8]
 	#Range: 1 ~ 50
 	hardenedSteelToolsEnchantability = 8
@@ -138,7 +138,7 @@
 	tungstenToolsSpeed = 6.5
 	#Tungsten tool attack damage [1-100, default: 0.75]
 	#Range: 1.0 ~ 100.0
-	tungstenToolsDamage = 0.75
+	tungstenToolsDamage = 1.0
 	#Tungsten tool enchantability [0-50, default: 8]
 	#Range: 1 ~ 50
 	tungstenToolsEnchantability = 8
