@@ -2,7 +2,7 @@
 #Cassiterite and Deepslate Ore Generation
 [cassiterite_ore]
 	#Generate Cassiterite Ore in the world [true / false]
-	cassiteriteOreGeneration = true
+	cassiteriteOreGeneration = false
 	#Size of Cassiterite Ore pockets [0-100, default: 9]
 	#Range: 0 ~ 100
 	cassiteriteOreSize = 9
