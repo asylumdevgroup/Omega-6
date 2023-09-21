@@ -36,8 +36,8 @@ customization {
   width = 130
   action = deep_customization_element:title_screen_branding
   actionid = a3549573-3e42-4532-a596-85f3eee235da1693959916684
-  y = 315
-  height = 20
+  y = 295
+  height = 40
 }
 
 customization {
@@ -89,11 +89,11 @@ customization {
 customization {
   path = openloader/resources/mainmenu/packlogo.png
   orientation = top-left
-  x = 272
+  x = 263
   width = 100
   action = addtexture
   actionid = 2e37b492-b446-4daa-b374-faac04984e681693959980394
-  y = 20
+  y = 21
   height = 100
 }
 
@@ -104,6 +104,15 @@ customization {
   action = setbuttontexture
   backgroundhovered = openloader/resources/mainmenu/long_button_highlighted.png
   backgroundnormal = openloader/resources/mainmenu/long_button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = openloader/resources/mainmenu/button_highlighted.png
+  backgroundnormal = openloader/resources/mainmenu/button.png
 }
 
 customization {
@@ -125,25 +134,16 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = openloader/resources/mainmenu/button_highlighted.png
-  backgroundnormal = openloader/resources/mainmenu/button.png
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  action = setbuttontexture
-  backgroundhovered = openloader/resources/mainmenu/button_highlighted.png
-  backgroundnormal = openloader/resources/mainmenu/button.png
-}
-
-customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  loopbackgroundanimations = true
+  restartbackgroundanimations = true
+  action = setbuttontexture
+  backgroundhovered = openloader/resources/mainmenu/button_highlighted.png
+  backgroundnormal = openloader/resources/mainmenu/button.png
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   action = setbuttontexture

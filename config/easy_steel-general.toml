@@ -19,7 +19,7 @@
 #Rutile Ore and Deepslate Generation
 [rutile]
 	#Generate Rutile Ore in the world [true / false]
-	rutileOreGeneration = true
+	rutileOreGeneration = false
 	#Size of Rutile Ore pockets [0-100, default: 6]
 	#Range: 0 ~ 100
 	rutileOreSize = 6

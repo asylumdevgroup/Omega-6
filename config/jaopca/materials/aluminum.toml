@@ -12,6 +12,8 @@
 	hasEffect = false
 	#The model type of the material.
 	modelType = "metallic"
+	#The color of this material.
+	color = 11317948
 
 [crossroads]
 	#The byproduct material to output in Crossroads' Millstone.
@@ -20,4 +22,8 @@
 [mekanism]
 	#The default base to use in Mekanism's Combiner to recreate ores.
 	oreBase = "#forge:cobblestone/normal"
+
+[indreb]
+	#The default byproduct material to output in Industrial Reborn's crushing.
+	byproduct = "indreb:stone_dust"
 

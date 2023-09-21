@@ -6,7 +6,7 @@
 	[oregen.Tin_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 7
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -23,7 +23,7 @@
 	[oregen.Silver_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -40,7 +40,7 @@
 	[oregen.Lead_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 8
@@ -57,7 +57,7 @@
 	[oregen.Sapphire_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 4
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 3
@@ -74,7 +74,7 @@
 	[oregen.Quartz_oregen]
 		#Number of veins per chunk (set to 0 to disable).
 		#Range: 0 ~ 256
-		oreChances = 90
+		oreChances = 0
 		#Max size of the vein.
 		#Range: 1 ~ 256
 		veinSize = 5

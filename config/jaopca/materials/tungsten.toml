@@ -27,3 +27,7 @@
 	#The default base to use in Mekanism's Combiner to recreate ores.
 	oreBase = "#forge:cobblestone/normal"
 
+[indreb]
+	#The default byproduct material to output in Industrial Reborn's crushing.
+	byproduct = "indreb:stone_dust"
+

@@ -17,3 +17,7 @@
 	#The byproduct material to output in Crossroads' Millstone.
 	byproduct = "minecraft:sand"
 
+[indreb]
+	#The default byproduct material to output in Industrial Reborn's crushing.
+	byproduct = "indreb:stone_dust"
+
